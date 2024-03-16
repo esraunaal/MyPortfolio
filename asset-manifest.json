@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.282d10a2.css",
+    "main.js": "/static/js/main.67474626.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/working2.png": "/static/media/working2.229781e019702808e800.png",
+    "static/media/about.png": "/static/media/about.7b0dfbf4ae5f017bd5de.png",
+    "static/media/profil.png": "/static/media/profil.38831384008665ebd2e6.png",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/esraunal_resume_19012024.pdf": "/static/media/esraunal_resume_19012024.6b96cf6e64dc70f53f40.pdf",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.282d10a2.css.map": "/static/css/main.282d10a2.css.map",
+    "main.67474626.js.map": "/static/js/main.67474626.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.282d10a2.css",
+    "static/js/main.67474626.js"
+  ]
+}
