@@ -20,7 +20,7 @@ function About() {
             }}
           >
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              LET ME <span className="plum"> INTRODUCE </span> MYSELF
             </h1>
             <Aboutcard />
           </Col>
